@@ -1,0 +1,1118 @@
+{
+  "Amifampridine": [
+    {
+      "gene": "NAT2",
+      "drug": "Amifampridine",
+      "genotype": "*5/*6",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: *11/*12,*13)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Amifampridine Phosphate": [
+    {
+      "gene": "NAT2",
+      "drug": "Amifampridine Phosphate",
+      "genotype": "*5/*6",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: *11/*12,*13)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Amphetamine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Amphetamine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Aripiprazole": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Aripiprazole",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Aripiprazole Lauroxil": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Aripiprazole Lauroxil",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Atomoxetine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Atomoxetine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Azathioprine": [
+    {
+      "gene": "TPMT",
+      "drug": "Azathioprine",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    },
+    {
+      "gene": "NUDT15",
+      "drug": "Azathioprine",
+      "genotype": "*1/*6",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "unknown",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Belinostat": [
+    {
+      "gene": "UGT1A1",
+      "drug": "Belinostat",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Brexpiprazole": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Brexpiprazole",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Brivaracetam": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Brivaracetam",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Results in higher systemic concentrations and higher adverse reaction risk. Consider dosage reductions in poor metabolizers.",
+      "candidate_note": null
+    }
+  ],
+  "Capecitabine": [
+    {
+      "gene": "DPYD",
+      "drug": "Capecitabine",
+      "genotype": "*1/*S12",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Celecoxib": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Celecoxib",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Citalopram": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Citalopram",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Clobazam": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Clobazam",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Results in higher systemic active metabolite concentrations. Poor metabolism results in higher adverse reaction risk. Dosage adjustment is recommended. Refer to FDA labeling for specific dosing recommendations.",
+      "candidate_note": null
+    }
+  ],
+  "Clopidogrel": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Clopidogrel",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Results in lower systemic active metabolite concentrations, lower antiplatelet response, and may result in higher cardiovascular risk. Consider use of another platelet P2Y12 inhibitor.",
+      "candidate_note": null
+    }
+  ],
+  "Clozapine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Clozapine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Codeine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Codeine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Deutetrabenazine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Deutetrabenazine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Dronabinol": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Dronabinol",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. May result in higher systemic concentrations and higher adverse reaction risk. Monitor for adverse reactions.",
+      "candidate_note": null
+    }
+  ],
+  "Eliglustat": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Eliglustat",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "Data support therapeutic management recommendations. Alters systemic concentrations, effectiveness, and adverse reaction risk (QT prolongation). Indicated for normal, intermediate, and poor metabolizer patients. Ultrarapid metabolizers may not achieve adequate concentrations to achieve a therapeutic effect. The recommended dosages are based on CYP2D6 metabolizer status. Coadministration with strong CYP3A inhibitors is contraindicated in intermediate and poor CYP2D6 metabolizers. Refer to FDA labeling for specific dosing recommendations.",
+      "candidate_note": null
+    }
+  ],
+  "Erdafitinib": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Erdafitinib",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Flibanserin": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Flibanserin",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Flurbiprofen": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Flurbiprofen",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Fluorouracil": [
+    {
+      "gene": "DPYD",
+      "drug": "Fluorouracil",
+      "genotype": "*1/*S12",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Gefitinib": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Gefitinib",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Iloperidone": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Iloperidone",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Irinotecan": [
+    {
+      "gene": "UGT1A1",
+      "drug": "Irinotecan",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Lofexidine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Lofexidine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Meclizine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Meclizine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Metoclopramide": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Metoclopramide",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Mercaptopurine": [
+    {
+      "gene": "TPMT",
+      "drug": "Mercaptopurine",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    },
+    {
+      "gene": "NUDT15",
+      "drug": "Mercaptopurine",
+      "genotype": "*1/*6",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "unknown",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Pantoprazole": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Pantoprazole",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Pimozide": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Pimozide",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Piroxicam": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Piroxicam",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Results in higher systemic concentrations. Consider reducing dosage in poor metabolizers.",
+      "candidate_note": null
+    }
+  ],
+  "Propafenone": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Propafenone",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Siponimod": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Siponimod",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Results in higher systemic concentrations. Adjust dosage based on genotype. Do not use in patients with CYP2C9 *3/*3 genotype. Refer to FDA labeling for specific dosing recommendations.",
+      "candidate_note": null
+    }
+  ],
+  "Tacrolimus": [
+    {
+      "gene": "CYP3A5",
+      "drug": "Tacrolimus",
+      "genotype": "*1/*3",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Results in lower systemic concentrations and lower probability of achieving target concentrations. Measure drug concentrations and adjust dosage based on trough whole blood tacrolimus concentrations.",
+      "candidate_note": null
+    }
+  ],
+  "Tetrabenazine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Tetrabenazine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Thioguanine": [
+    {
+      "gene": "TPMT",
+      "drug": "Thioguanine",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    },
+    {
+      "gene": "NUDT15",
+      "drug": "Thioguanine",
+      "genotype": "*1/*6",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "unknown",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Thioridazine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Thioridazine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Tramadol": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Tramadol",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Valbenazine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Valbenazine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Venlafaxine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Venlafaxine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Vortioxetine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Vortioxetine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Warfarin": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Warfarin",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Alters systemic concentrations and dosage requirements. Select initial dosage, taking into account clinical and genetic factors. Monitor and adjust dosages based on INR.",
+      "candidate_note": null
+    },
+    {
+      "gene": "CYP4F2",
+      "drug": "Warfarin",
+      "genotype": "*V433M/*V433M",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2)",
+      "conclusion": "Data support therapeutic management recommendations. May affect dosage requirements. Monitor and adjust doses based on INR.",
+      "candidate_note": null
+    },
+    {
+      "gene": "VKORC1",
+      "drug": "Warfarin",
+      "genotype": "*3/*-1639G>A",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "unknown",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data support therapeutic management recommendations. Alters dosage requirements. Select initial dosage, taking into account clinical and genetic factors. Monitor and adjust dosages based on INR.",
+      "candidate_note": null
+    }
+  ],
+  "Carvedilol": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Carvedilol",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Cevimeline": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Cevimeline",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Efavirenz": [
+    {
+      "gene": "CYP2B6",
+      "drug": "Efavirenz",
+      "genotype": "*4/*9",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Nilotinib": [
+    {
+      "gene": "UGT1A1",
+      "drug": "Nilotinib",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Pazopanib": [
+    {
+      "gene": "UGT1A1",
+      "drug": "Pazopanib",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Perphenazine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Perphenazine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Simvastatin": [
+    {
+      "gene": "SLCO1B1",
+      "drug": "Simvastatin",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_function",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Tolterodine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Tolterodine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Amitriptyline": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Amitriptyline",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Amoxapine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Amoxapine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Avatrombopag": [
+    {
+      "gene": "CYP2C9",
+      "drug": "Avatrombopag",
+      "genotype": "*1/*2",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data demonstrate a potential impact on pharmacokinetic properties only. Results in higher systemic concentrations.",
+      "candidate_note": null
+    }
+  ],
+  "Carisoprodol": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Carisoprodol",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Clomipramine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Clomipramine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Darifenacin": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Darifenacin",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Desipramine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Desipramine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Dexlansoprazole": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Dexlansoprazole",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data demonstrate a potential impact on pharmacokinetic properties only. Results in higher systemic concentrations.",
+      "candidate_note": null
+    }
+  ],
+  "Diazepam": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Diazepam",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Dolutegravir": [
+    {
+      "gene": "UGT1A1",
+      "drug": "Dolutegravir",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Donepezil": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Donepezil",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Doxepin": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Doxepin",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data demonstrate a potential impact on pharmacokinetic properties only. Results in higher systemic concentrations.",
+      "candidate_note": null
+    },
+    {
+      "gene": "CYP2D6",
+      "drug": "Doxepin",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Elagolix": [
+    {
+      "gene": "SLCO1B1",
+      "drug": "Elagolix",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_function",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Escitalopram": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Escitalopram",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Esomeprazole": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Esomeprazole",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Fesoterodine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Fesoterodine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Fluvoxamine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Fluvoxamine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Galantamine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Galantamine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Imipramine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Imipramine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Metoprolol": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Metoprolol",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Mirabegron": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Mirabegron",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Nebivolol": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Nebivolol",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Nortriptyline": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Nortriptyline",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Omeprazole": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Omeprazole",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data demonstrate a potential impact on pharmacokinetic properties only. Results in higher systemic concentrations.",
+      "candidate_note": null
+    }
+  ],
+  "Paroxetine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Paroxetine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Propranolol": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Propranolol",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Protriptyline": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Protriptyline",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Rabeprazole": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Rabeprazole",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Raltegravir": [
+    {
+      "gene": "UGT1A1",
+      "drug": "Raltegravir",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Risperidone": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Risperidone",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Rosuvastatin": [
+    {
+      "gene": "SLCO1B1",
+      "drug": "Rosuvastatin",
+      "genotype": "*1/*1",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_function",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Tamoxifen": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Tamoxifen",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Tamsulosin": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Tamsulosin",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Trimipramine": [
+    {
+      "gene": "CYP2D6",
+      "drug": "Trimipramine",
+      "genotype": "*1/*35",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "normal_metabolizer",
+      "candidate_genotype": "(additional_variants: /*2,*39,*34)",
+      "conclusion": "No special recommendation",
+      "candidate_note": null
+    }
+  ],
+  "Voriconazole": [
+    {
+      "gene": "CYP2C19",
+      "drug": "Voriconazole",
+      "genotype": "*8/*17",
+      "sv_genotypes": "no_sv/no_sv",
+      "phenotype": "intermediate_metabolizer",
+      "candidate_genotype": "(additional_variants: /)",
+      "conclusion": "Data demonstrate a potential impact on pharmacokinetic properties only. Results in higher systemic concentrations.",
+      "candidate_note": null
+    }
+  ]
+}
